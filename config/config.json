@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": null,
-    "database": "database_otpgenerator",
+    "database": "database_otp",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
